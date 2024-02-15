@@ -3,9 +3,8 @@ from pathlib import Path
 
 st.set_page_config(page_title="Home", page_icon="🏡", layout="wide")
 
-#icon_path = 'https://lh5.googleusercontent.com/dovsuxe_56wOzr-ZCWqJAakP8K4GYl73alTFb_NTAr7UjwUNUdjK54cRoc8lAecqic5AiJF98NTXdlRd8V_kWko=w16383'
+image_path2 = Path("/mount/src/talk-to-files/srcs/logo.png").with_name("favi.png")
 image_path = Path("/mount/src/talk-to-files/srcs/logo.png").with_name("logo.png")
-st.write(image_path)
 st.sidebar.image(str(image_path), width=170)
 
 st.title('Talk to your Files! 🚀')
@@ -40,5 +39,5 @@ with col3:
     st.markdown(f"[Medium](https://sebascar322.medium.com/)", unsafe_allow_html=True)
 
 with col4:
-    st.image('https://lh3.googleusercontent.com/Pec5rs7UNUCoFM-jD79t7AMvAhOykep7aMTU3NvicangR9zsJykjMgjwFCUtU_DQMcovP_u-cggQYqJ55Kp9Z-xXMQjsNChpP5npUEEL7hFveWAj6JOVZQTR23mVthzHIA=w1280', caption='', width=70)
+    st.image(str(image_path2), caption='', width=70)
     st.markdown(f"[Portfolio](https://www.sebascarmona.com/)", unsafe_allow_html=True)
