@@ -11,7 +11,7 @@ There are two tabs, depending on the file type you want to upload, and what you 
 You can use test the application [here](https://talk-to-your-files-sca.streamlit.app/)
 
 The Home page will look like this:
-![Home](https://github.com/Sebasc322/talk-to-files/blob/main/Home.jpg)
+![Home](https://github.com/Sebasc322/talk-to-files/blob/main/srcs/Home.jpg)
 
 
 Go to the terminal and run:
