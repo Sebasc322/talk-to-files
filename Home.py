@@ -2,7 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Home", page_icon="🏡", layout="wide")
 
-icon_path = 'https://lh5.googleusercontent.com/dovsuxe_56wOzr-ZCWqJAakP8K4GYl73alTFb_NTAr7UjwUNUdjK54cRoc8lAecqic5AiJF98NTXdlRd8V_kWko=w16383'
+#icon_path = 'https://lh5.googleusercontent.com/dovsuxe_56wOzr-ZCWqJAakP8K4GYl73alTFb_NTAr7UjwUNUdjK54cRoc8lAecqic5AiJF98NTXdlRd8V_kWko=w16383'
+image1 = Image.open('srcs/logo.png')
 st.sidebar.image(icon_path, width=170)
 
 st.title('Talk to your Files! 🚀')
