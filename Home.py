@@ -29,7 +29,7 @@ with col1:
 
 
 with col2:
-    st.image('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F11%2FGitHub-Symbol.png&f=1&nofb=1&ipt=65787a08ff9d6b6c471d1a8e2d9bc51c01d28950686c6726bb7166105903548d&ipo=images', caption='', width=70)
+    st.image('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fgithub-logo-png-github-logos-and-usage-github-800x665.png&f=1&nofb=1&ipt=bd79ac2097ce60e64378c291855a5374e4a91c5c77cfe01dc27f02380b5619f2&ipo=images', caption='', width=70)
     st.markdown(f"[Github](https://github.com/Sebasc322)", unsafe_allow_html=True)
 
 with col3:
