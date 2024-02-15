@@ -4,7 +4,7 @@ from pathlib import Path
 st.set_page_config(page_title="Home", page_icon="🏡", layout="wide")
 
 #icon_path = 'https://lh5.googleusercontent.com/dovsuxe_56wOzr-ZCWqJAakP8K4GYl73alTFb_NTAr7UjwUNUdjK54cRoc8lAecqic5AiJF98NTXdlRd8V_kWko=w16383'
-image_path = Path("/mount/src/talk-to-files/srcs").with_name("logo.png")
+image_path = Path("/mount/src/talk-to-files/srcs/logo.png").with_name("logo.png")
 st.write(image_path)
 #st.sidebar.image(str(image_path), width=170)
 
