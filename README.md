@@ -8,7 +8,7 @@ There are two tabs, depending on the file type you want to upload, and what you 
 
 2. If it is a CSV file, just click on the CSV tab and you will be able to ask questions to the file and get answers, or generate a quick EDA from the CSV file.
 
-You can use test the application ![here](https://talk-to-your-files-sca.streamlit.app/)
+You can use test the application [here](https://talk-to-your-files-sca.streamlit.app/)
 
 The Home page will look like this:
 ![Home](https://github.com/Sebasc322/talk-to-files/blob/main/Home.jpg)
